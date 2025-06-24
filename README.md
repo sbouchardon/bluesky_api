@@ -62,12 +62,12 @@ If you are using pip3 to install the modules:
    pip3 install atproto python-dotenv pandas textblob matplotlib numpy
    ```
 
-- Name: atproto, Version: 0.0.61, Link to documentation: [https://docs.bsky.app/docs/get-started](https://docs.bsky.app/docs/get-started)
-- Name: python-dotenv, Version: 1.0.0, Link to documentation: [https://saurabh-kumar.com/python-dotenv/](https://saurabh-kumar.com/python-dotenv/)
-- Name: pandas, Version: 2.0.2, Link to documentation: https://pandas.pydata.org/docs/
-- Name: textblob, Version: 0.19.0, Link to documentation: https://textblob.readthedocs.io/en/dev/
-- Name: matplotlib, Version: 3.7.2, Link to documentation: https://matplotlib.org/stable/users/index.html
-- Name: numpy, Version: 1.21.6, Link to documentation: https://numpy.org/doc/stable/
+- atproto, Version: 0.0.61, Link to documentation: [https://docs.bsky.app/docs/get-started](https://docs.bsky.app/docs/get-started)
+- python-dotenv, Version: 1.0.0, Link to documentation: [https://saurabh-kumar.com/python-dotenv/](https://saurabh-kumar.com/python-dotenv/)
+- pandas, Version: 2.0.2, Link to documentation: https://pandas.pydata.org/docs/
+- textblob, Version: 0.19.0, Link to documentation: https://textblob.readthedocs.io/en/dev/
+- matplotlib, Version: 3.7.2, Link to documentation: https://matplotlib.org/stable/users/index.html
+- numpy, Version: 1.21.6, Link to documentation: https://numpy.org/doc/stable/
   
 *The other modules used are Python's built-in standard libraries.*
 
